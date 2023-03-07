@@ -1,7 +1,34 @@
 # Bulgakov Dmitry
 ## Contacts:
-* Location: Turkey, Antalya :palm_tree:
-* Telegram: [@fubachu](https://t.me/fubachu)
-* E-mail: dmbulgak@gmail.com
-* GitHub: [ffriday](https://github.com/ffriday)
-* LinkedIn: [mitrich](https://www.linkedin.com/in/mitrich/)
+* **Location:** Turkey, Antalya :palm_tree:
+* **Telegram:** [@fubachu](https://t.me/fubachu)
+* **E-mail:** dmbulgak@gmail.com
+* **GitHub:** [ffriday](https://github.com/ffriday)
+* **Discord (rs-school nickname):** Bulgakov Dmitry (@ffriday)
+## About me:
+I am 34 years old and I worked as swimming pool construction engineer and construction project manager. Today I work as a freelance swimming pool project developer and I have several ideas for the implementation of which I need new knowledge in programming.
+## Skills:
+* HTML
+* CSS
+* JavaScript
+* Python
+* Git/GitHub
+* Autocad, Archicad
+* Windows, Linux (Ubuntu)
+## Code examplles:
+```javascript
+function moveZeros(arr) {
+    let t = [], i = 0;
+    for (a in arr) arr[a] === 0 ? t.push(a):false;
+    for (a of t) arr.push(...arr.splice(a - i++, 1));
+    return arr;
+}
+```
+## Education:
+**Russian State University for Geological Prospecting of Sergo Ordzhonikidze**  
+Computer technologies for information data processing
+Geophysical methods of exploration of useful minerals and computer
+processing of the obtained data.
+## Languages:
+* **Russian** - native
+* **English** - B2
