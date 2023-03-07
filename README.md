@@ -1,1 +1,1 @@
-https://ffriday.github.io/rsschool-cv/cv
+https://ffriday.github.io/rsschool-cv/
