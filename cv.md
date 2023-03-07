@@ -1,6 +1,6 @@
 # Bulgakov Dmitry
 ## Contacts:
-* **Location:** Turkey, Antalya :palm_tree:
+* **Location:** Turkey, Antalya
 * **Telegram:** [@fubachu](https://t.me/fubachu)
 * **E-mail:** dmbulgak@gmail.com
 * **GitHub:** [ffriday](https://github.com/ffriday)
