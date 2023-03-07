@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ffriday.github.io/rsschool-cv/
