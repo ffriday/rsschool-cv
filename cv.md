@@ -2,7 +2,7 @@
 ## Contacts:
 * **Location:** Turkey, Antalya
 * **Telegram:** [@fubachu](https://t.me/fubachu)
-* **E-mail:** dmbulgak@gmail.com
+* **E-mail:** [dmbulgak@gmail.com](mailto:dmbulgak@gmail.com)
 * **GitHub:** [ffriday](https://github.com/ffriday)
 * **Discord (rs-school nickname):** Bulgakov Dmitry (@ffriday)
 ## About me:
